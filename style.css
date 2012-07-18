@@ -1,0 +1,15 @@
+body {
+  width: 4000px;
+  height: 4000px;
+}
+
+path {
+  stroke: #aaa;
+  stroke-width: 0.25;
+  fill: null;
+}
+
+.highway_primary {
+  stroke-width: 2px;
+  stoke: #000;
+}
